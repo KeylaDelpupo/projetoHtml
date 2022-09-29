@@ -1,0 +1,22 @@
+#titulo{ color: rgb(139, 139, 248);
+}
+
+.ingrediente {
+
+    color: blueviolet;
+    
+}
+
+.preparo{
+
+    color: blue;
+}
+
+ul#lista{
+    text-align: left ;
+}
+
+p {
+    text-align: justify;
+}
+
